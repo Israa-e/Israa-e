@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-███████╗███████╗██████╗  █████╗  █████╗
-██╔════╝██╔════╝██╔══██╗██╔══██╗██╔══██╗
-█████╗  ███████╗██████╔╝███████║███████║
-██╔══╝  ╚════██║██╔══██╗██╔══██║██╔══██║
-███████╗███████║██║  ██║██║  ██║██║  ██║
-╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+██╗███████╗██████╗  █████╗  █████╗
+██║██╔════╝██╔══██╗██╔══██╗██╔══██╗
+██║███████╗██████╔╝███████║███████║
+██║╚════██║██╔══██╗██╔══██║██╔══██║
+██║███████║██║  ██║██║  ██║██║  ██║
+╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
 ### Flutter Developer · Gaza, Palestine 🇵🇸
@@ -21,7 +21,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About Israa
 
 Flutter developer with **3+ years** of hands-on experience crafting polished, high-performance mobile applications. I turn complex requirements into clean, maintainable code and intuitive user interfaces.
 
