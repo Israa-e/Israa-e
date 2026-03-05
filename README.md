@@ -23,7 +23,7 @@
 
 ## 👩‍💻 About Israa
 
-Flutter developer with **3+ years** of hands-on experience crafting polished, high-performance mobile applications. I turn complex requirements into clean, maintainable code and intuitive user interfaces.
+Flutter developer with **4+ years** of hands-on experience crafting polished, high-performance mobile applications. I turn complex requirements into clean, maintainable code and intuitive user interfaces.
 
 - 🚀 Improved app performance by **30%** at Awtar-tech
 - 🐛 Resolved **50+ production bugs**, significantly boosting app stability
