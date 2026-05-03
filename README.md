@@ -25,10 +25,10 @@
 
 Flutter developer with **4+ years** of hands-on experience crafting polished, high-performance mobile applications. I turn complex requirements into clean, maintainable code and intuitive user interfaces.
 
-- 🚀 Improved app performance by **30%** at Awtar-tech
+- 🚀 Improved app performance by **30%** at Awtar Tech
 - 🐛 Resolved **50+ production bugs**, significantly boosting app stability
-- 📈 Increased user engagement by **25%** through feature development
-- 🎓 B.Sc. in Information Technology — **Al-Aqsa University** (Merit Scholarship Recipient)
+- 📈 Increased user engagement by **25%** through feature development on EULink app
+- 🎓 B.Sc. in Information Technology — **Al-Aqsa University** (GPA: 3.55/4.0 · Merit Scholarship Recipient)
 
 ---
 
@@ -48,27 +48,38 @@ Flutter developer with **4+ years** of hands-on experience crafting polished, hi
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Agora RTC](https://img.shields.io/badge/Agora_RTC-099DFD?style=flat-square&logo=agora&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Other Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-**Flutter Developer** — Awtar-tech · *May 2022 – Oct 2023*
-> Developed & maintained production Flutter apps · Integrated UI/UX designs for the EUlink app · Led bug-fixing efforts and performance optimizations
+**Flutter Developer** — Skill Swap App (Freelance) · *Jul 2025 – Mar 2026*
+> Developed the Skill Swap mobile app enabling users to connect and exchange skills · Implemented real-time chat and video sessions via Agora RTC · Built gamified profiles with points & badges · Used BLoC/Cubit for state management and clean architecture
 
-**Flutter Programmer Intern** — Fusion Company · *Jul 2021 – Feb 2022*
-> Built cross-platform apps · Integrated REST APIs · Participated in unit testing and QA
+**Flutter Developer** — Gaza Sky Geeks (GSG) · *2025*
+> Developed scalable Flutter apps following Clean Architecture · Implemented advanced state management patterns · Collaborated in Agile teams, code reviews, and sprint planning
 
-**Flutter Developer (Freelance)** — NAS App · *2024*
-> Sole developer of an employee job-application mobile app · Used GetX for state management · Integrated full API layer for submissions
+**Flutter Developer** — NAS App (Freelance) · *Aug 2024 – Jun 2025*
+> Sole developer of an employee job-application mobile app · Used GetX for state management · Integrated full REST API layer for job submissions and backend communication
+
+**Flutter Developer** — Awtar Tech · *May 2022 – Oct 2023*
+> Improved app performance by 30% through optimization and refactoring · Increased user engagement by 25% via new features on the EULink app · Resolved 50+ production bugs and integrated Firebase services · Contributed to UI/UX integration and reduced technical debt
+
+**Flutter Developer Intern** — Fusion Company · *Jul 2021 – Feb 2022*
+> Built cross-platform mobile apps · Integrated REST APIs · Participated in unit testing and debugging · Collaborated with senior developers on client projects
 
 ---
 
@@ -77,15 +88,40 @@ Flutter developer with **4+ years** of hands-on experience crafting polished, hi
 ### [Skill Swap App](https://github.com/Israa-e/skill_swap_app)
 > A Flutter mobile app connecting people who want to exchange skills — real-time chat, video sessions via Agora RTC, gamification with points & badges, and full Arabic/English (RTL) support.
 
-`Flutter` `BLoC/Cubit` `GoRouter` `Agora RTC` `Dio` `Localization`
+`Flutter` `BLoC/Cubit` `GoRouter` `Agora RTC` `Dio` `Clean Architecture` `Localization`
+
+---
+
+## 🎓 Education
+
+**Bachelor's Degree in Information Technology** — Al-Aqsa University, Gaza · *2019 – 2023*
+> GPA: 3.55 / 4.0 (88.80%) · 🏆 Awarded 50% Merit Scholarship for outstanding academic performance
 
 ---
 
 ## 📜 Certifications
 
 - 🎓 Flutter & Dart – The Complete Guide [2023 Edition] · *Udemy*
-- 🎓 Responsive Real World Websites with HTML5 & CSS3 · *Udemy*
+- 🎓 Build Responsive Real-World Websites with HTML5 & CSS3 · *Udemy*
 - 🎓 The PHP 8 Learning Guide · *Udemy*
+- 🎓 Python for Data Science and Machine Learning · *Udemy*
+
+---
+
+## 📚 Currently Learning
+
+- 🔐 Google Cybersecurity Specialization · *Coursera — Syrian Youth Assembly*
+- 🖥️ Google IT Support Specialization · *Coursera — Syrian Youth Assembly*
+- 📋 Google Project Management Specialization · *Coursera — Syrian Youth Assembly*
+- 🎮 Game Development · *Gaza Sky Geeks (GSG)*
+
+---
+
+## 🌍 Activities & Leadership
+
+- 👩‍💻 Active member of university tech clubs — participated in coding challenges and hackathons
+- 🎤 Organized and led workshops on Flutter and mobile app development for university peers
+- 🤝 Volunteered in community tech events, promoting digital literacy among students
 
 ---
 
